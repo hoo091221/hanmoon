@@ -1,0 +1,37 @@
+body {
+    -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+#randomWords {
+    font-size: 7vw;
+    margin-top: 30vh;
+}
+
+#wordMeanings {
+    font-size: 4vw;
+    margin-top: 1em;
+}
+
+.btn {
+    font-size: 4vw;
+    padding: 1em;
+    border-radius: 0.2em;
+    border: none;
+    color: #000;
+    margin: 10px;
+}
+
+#list {
+    font-size: 3vw;
+    padding: 2vw;
+    background: #ddd;
+    border-radius: 0.3em;
+}
+
+#numbering {
+    font-size: 3vw;
+}
